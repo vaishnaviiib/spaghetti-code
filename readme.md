@@ -9,7 +9,9 @@ g++ -o hello-world hello-world.cpp
 2. Fork this repository 
 3. Build the most complex hello world possible
 4. Provide readme.md with the following
-   * Strategy and desin
+   * Strategy and design
+   * How you could've made your code worse
+   * What you learned from the activity
 6. Create pull request once messy code is done
 
 ## Additional Items ##

@@ -18,7 +18,7 @@ g++ -o hello-world hello-world.cpp
 * Mentors will be floating around and working with each team
 
 ## Objective ##
-Write the messiest program possible :)
+Write the messiest program possible and it must print "Hello World" or some variation of it :)
 * Provide readme with the following
     * Strategy and code design
     * What you would have done differently

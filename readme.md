@@ -7,6 +7,13 @@ g++ -o hello-world hello-world.cpp
 ## Instructions ## 
 1. Form teams of 3-4
 2. Fork this repository 
+3. Build the most complex hello world possible
+4. Provide readme.md with the following
+   * Strategy and desin
+6. Create pull request once messy code is done
+
+## Additional Items ##
+* Mentors will be floating around and working with each team
 
 ## Objective ##
 Write the messiest program possible :)
@@ -17,8 +24,7 @@ Write the messiest program possible :)
 
 ## Tools ##
 You are welcome to use your favorite IDE/editor/language
-* Ensure you have a C++ compiler installed
-    * g++ or clang
+* Ensure you have your respective language interpreter/compiler/runtime setup
 
 
 ## Setup ##

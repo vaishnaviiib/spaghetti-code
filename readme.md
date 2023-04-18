@@ -4,6 +4,10 @@
 g++ -o hello-world hello-world.cpp
 ```
 
+## Instructions ## 
+1. Form teams of 3-4
+2. Fork this repository 
+
 ## Objective ##
 Write the messiest program possible :)
 * Provide readme with the following
@@ -18,5 +22,5 @@ You are welcome to use your favorite IDE/editor/language
 
 
 ## Setup ##
-https://docs.github.com/en/get-started/quickstart/set-up-git
-https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+Setting up git - https://docs.github.com/en/get-started/quickstart/set-up-git
+Granting repo access - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
